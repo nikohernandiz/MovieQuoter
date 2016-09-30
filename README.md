@@ -1,2 +1,2 @@
-# MovieQuoter
-This is the first stepping stone to creating an A.I that you can give a movie quote and it'll return the movie it came from. 
+# Quote Bot
+This will be an A.I that you can give a line of dialogue and it'll return the movie or tv show it came from. 
